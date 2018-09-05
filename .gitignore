@@ -34,3 +34,4 @@
 # Idea
 .idea
 *.iml
+cmake-build-debug
