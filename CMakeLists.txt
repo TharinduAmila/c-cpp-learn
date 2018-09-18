@@ -3,4 +3,4 @@ project(c_cpp_learn)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_subdirectory(src/basics)
+add_subdirectory(src/Basics)
