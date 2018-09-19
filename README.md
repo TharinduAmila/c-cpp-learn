@@ -1,5 +1,6 @@
 # c-cpp-learn
-Learn C/CPP programming   
+Learn C/CPP programming
+Note that the cmake files are for easy use with CLion IDE.
 
 Characteristics of C  
 Compiled  
